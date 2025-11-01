@@ -1,4 +1,5 @@
-cudy tr3000
+# cudy tr3000
+```
 root@TR3000:~# cat /proc/cpuinfo
 processor       : 0
 model name      : ARMv8 Processor rev 4 (v8l)
@@ -24,7 +25,7 @@ root@TR3000:~# opkg print-architecture
 arch all 1
 arch noarch 1
 arch aarch64_cortex-a53 10
-
+```
 
 # luci-app-easytier
 
